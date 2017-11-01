@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+*.bin
+*.pickle
 .DS_Store
 .idea/
 __pycache__/
