@@ -16,3 +16,9 @@ index1.ipynb 基于栈实现的 多符号闭合检查器 （失败）
 index2.ipynb 基于栈实现的 10进制转二进制
 
 index3.ipynb 基于栈实现的 10进制转为任何进制（2-16）
+
+index4.ipynb 基于栈实现的 后缀运算符转换
+
+index5.ipynb 基于栈实现的 后缀表达式的计算
+
+index6.ipynb 基于栈实现的 后缀表达式的计算
