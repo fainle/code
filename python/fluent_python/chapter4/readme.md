@@ -10,3 +10,5 @@ utf8.ipynb 演示了utf-8编码与解码。
 bytes_and_bytearray.ipynb 演示了简单的bytes 和 bytearray的用法。
 
 struct.ipynb 使用struct模块来处理字节序列对象，包括二进制图片对象，这里演示用图片二进制的头部数据提取图片的长宽。
+
+unicode_encode_error.ipynb 字符编码的常规错误处理方法。
