@@ -8,3 +8,6 @@
 
 
 register.ipynb 演示了装饰器的基础方法。
+
+order.ipynb 演示了用装饰器模式重构的“策略”设计模式。
+
