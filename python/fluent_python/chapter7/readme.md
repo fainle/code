@@ -11,4 +11,6 @@ register.ipynb 演示了装饰器的基础方法。
 
 order.ipynb 演示了用装饰器模式重构的“策略”设计模式。
 
-variable.ipynb 掩饰了全局变量和局部变量，以及python在局部里面对全局变量赋值的区别。
+variable.ipynb 演示了全局变量和局部变量，以及python在局部里面对全局变量赋值的区别。
+
+average_oo.ipynb 演示了闭包的普通使用。
