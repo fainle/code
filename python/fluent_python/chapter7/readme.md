@@ -14,3 +14,5 @@ order.ipynb 演示了用装饰器模式重构的“策略”设计模式。
 variable.ipynb 演示了全局变量和局部变量，以及python在局部里面对全局变量赋值的区别。
 
 average_oo.ipynb 演示了闭包的普通使用。
+
+times.ipynb 简单的装饰器用法。(记录函数的执行时间)
