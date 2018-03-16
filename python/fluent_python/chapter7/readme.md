@@ -16,3 +16,6 @@ variable.ipynb 演示了全局变量和局部变量，以及python在局部里�
 average_oo.ipynb 演示了闭包的普通使用。
 
 times.ipynb 简单的装饰器用法。(记录函数的执行时间)
+
+times2.ipynb 简单的装饰器用法。(对比上面增加了wraps复制被装饰函数的属性和参数)。
+
