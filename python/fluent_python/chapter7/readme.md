@@ -20,3 +20,5 @@ times.ipynb 简单的装饰器用法。(记录函数的执行时间)
 times2.ipynb 简单的装饰器用法。(对比上面增加了wraps复制被装饰函数的属性和参数)。
 
 lru_cache.ipynb 缓存装饰器 lru_cache （参数必须可散列的）可以显著节省时间。
+
+singledispatch.ipynb 模仿java的参数重载，用singledispatch装饰器实现。
