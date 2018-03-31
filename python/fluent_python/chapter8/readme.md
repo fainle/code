@@ -9,3 +9,5 @@ twilight_bus.ipynb 这里演示了怎么处理可变对象作为参数的时候�
 
 weakref.ipynb 演示了如果两个变量的引用同时被销毁的时候，python则进行变量回收。
 
+cheese.ipynb 弱引用作为缓存的例子
+
